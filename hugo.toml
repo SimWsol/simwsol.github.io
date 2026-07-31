@@ -7,6 +7,14 @@ theme = "hugo-texify3"
 [params]
 author = "Simon Hoines"
 title = "Simon Hoines"
+rootFontSize = "105%"
+customCSS = ["css/styles.css"]
+footnote = """
+Made with <a href="https://gohugo.io" target="_blank">
+<img src="/images/icons/hugo.svg" alt="Hugo" width="45px" height="12px"class="hugo-svg">
+</a> and <a href="https://www.gnu.org/software/emacs/" target="_blank">
+<img src="/images/icons/emacs-alt.svg" width="20px" height="20px" alt="Emacs" class="emacs-svg"></a>
+"""
 
 [menu]
   [[menu.main]]
