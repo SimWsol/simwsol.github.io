@@ -5,7 +5,7 @@ author = "Simon Hoines"
 description = "Emergency landing"
 categories = ["Articles"]
 tags = ["meta", "university"]
-draft = true
+draft = false
 +++
 
 ## Hi I'm Simon Hoines
